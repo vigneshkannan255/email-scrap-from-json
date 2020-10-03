@@ -1,3 +1,6 @@
+'''
+this code is used for scrap data from json file
+'''
 import json
 
 ans=set()
