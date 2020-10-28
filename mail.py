@@ -1,8 +1,10 @@
+'''email sacrap from json'''
+#importing json package  
+import json
 def scrap():
     '''
     this code is used for scrap data from json file
     '''
-    import json
     ans=set()
 
     f=open('csvjson.json',)
